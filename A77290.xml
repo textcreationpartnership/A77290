@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Babels fall, in the foolish virgins sleep. Among which Presbytery lyeth, with predictions of the great disputed to be at the raising of the true ministry.    / Written by a witnesse of the truth, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77290</idno>
+            <idno type="STC">Wing B4319</idno>
+            <idno type="STC">Thomason E554_19</idno>
+            <idno type="STC">ESTC R205773</idno>
+            <idno type="EEBO-CITATION">99865054</idno>
+            <idno type="PROQUEST">99865054</idno>
+            <idno type="VID">117289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117289)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E554[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Babels fall, in the foolish virgins sleep. Among which Presbytery lyeth, with predictions of the great disputed to be at the raising of the true ministry.    / Written by a witnesse of the truth, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B. in Kings-street at Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIX [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117289:1" rendition="simple:additions"/>
+            <p>BABELS FALL, In the Fooliſh Virgins Sleep.</p>
+            <p>Among which Presbytery lyeth, with Predictions of the great diſputes to be at the raiſing of the true Miniſtry.</p>
+            <p>
+               <hi>Written by a Witneſſe of the Truth,</hi> John Brayne.</p>
+            <p>
+               <hi>Ely</hi> to <hi>Samuel.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Sam.</hi> 3.17.</bibl> What is the thing the Lord hath ſaid unto thee? I pray thee hide it not from me, God doe ſo and more al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to thee, if thou hide any thing from me, of all the things God hath ſaid unto thee.</q>
+            <p>
+               <hi>Samuel</hi> to <hi>Ely.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Sam.</hi> 3.18, 14.</bibl> 
+               <hi>Samuel</hi> told him the in quity of <hi>Elies</hi> houſe ſhall not be purged by Sacrifice nor offering for ever.</q>
+            <p>The man of God ſaid to <hi>Eli,</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Sam.</hi> 2.35.</bibl> God hath ſaid, I will raiſe me up a faithfull Prieſt, which ſhall doe according to that which is in my heart, and in my minde, and I will build him a ſure houſe, and he ſhall walke before mine anointed, &amp;c.</q>
+            <p>
+               <hi>Ely</hi> ſaid to <hi>Samuel,</hi>
+            </p>
+            <q>It is the Lord, let him doe what ſeemeth him good.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. B.</hi> in <hi>Kings-ſtreet</hi> at <hi>Weſtminſter, MDCXLIX,</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117289:2"/>
+            <pb facs="tcp:117289:2"/>
+            <head>To the Honourable <hi>John Liſle,</hi> one of the Lords Commiſſioners of the <hi>Great Seal.</hi>
+            </head>
+            <opener>
+               <salute>Honourable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>David</hi> and the Apoſtles before me ſaid, <hi>We believe, and therefore ſpeak,</hi> ſo I believing the truth of the Scrip<g ref="char:EOLhyphen"/>tures, did preſume to write you of many things ſtrange before, but now evident ſince accompliſhed: I am once more bold to write you from the Goſpel of things ſhortly to be fulfilled, which will ſeem ſtrange, but will prove moſt true in its time, however, mine enemies are ſtirred up to hate and oppreſſe me for it, the day will come they will be aſhamed at it. Sir, I hope, I have deſerved no other but your love, wherewith you have loved me, and the love of thoſe love God in the Country, and thoſe hate me doe it without a cauſe, even for my ſtanding for, and witneſſing to the truth of the Goſpel, with which I am intruſted, which ſhould occaſion their love, were they of God, and not hate, to the defence whereof you are called, and bleſſed ſhall you be if you contend for it, and conſent not to the detain<g ref="char:EOLhyphen"/>ing of the diſcovery thereof, which the Lord preſerve you from, and keepe you to immortality and life, and ſet you with Chriſt in his ſight, to the full enjoyment of himſelfe for ever.</p>
+            <closer>
+               <signed>Is the hearty deſire of your Servant in the Goſpell, <hi>John Brayne.</hi>
+               </signed>
+               <dateline>
+                  <date>Aprill 1, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117289:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He predictions following are drawn from Prophe<g ref="char:EOLhyphen"/>ticall Scriptures, and are no Inthuſiaſticall Dreams, they ſeem ſtrange indeed at firſt, but ſtrong is the Lord that doth them, for hath he ſaid, and ſhall he not performe it? God hath foretold us when h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall build up <hi>Sion</hi> he will appear in his glory which ſets us now upon the expectation of glorious things, theſe are therefore written that God may be glorified, Magiſtrates may be directed, Miniſters inſtructed, and the Truth revea<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d: Concerning all which, in much confidence I affirm, if the Lord give me leave to live but a little while, I ſhall not be aſhamed of what is herein written. Thus leaving thee and them to the Lord, to declare himſelf herein as he pleaſe, to the glorifying of himſelfe for ever: And this I dare af<g ref="char:EOLhyphen"/>firm, ſo far off as thou ſeeſt we are from ſeeing theſe things, ſo far off are we from ſeeing peace and deliverance, and as men act againſt this they act againſt their own deliverance, from which the Lord prevent us graciouſly.</p>
+            <closer>
+               <signed>
+                  <hi>I reſt thine in the Lord,</hi> John Brayne.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117289:3"/>
+            <head>BABELS FALL, In the fooliſh VIRGINS Sleep.</head>
+            <epigraph>
+               <q>The Kingdom of Heaven that is the ſtate of the Church under the Goſpel, Adminiſtrations are uſually ſet out by the Lord ſignificantly in Parables, ſome whereof have th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir alluſions drawn from Marriage and Marriage-Feaſts, correſponding with the predictions of the Pro<g ref="char:EOLhyphen"/>phets foregoing, and in eſpeciall, that of <bibl>
+                     <hi>MAT. 25.</hi> from <hi>Verſ. 1.</hi> to <hi>Verſ. 11.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N which ye have the eſtate of the Church, Miniſtry, and Government thereof unto the end of the world, according to the wiſdom of the infinitely wiſe God, held out and commended unto us under the notion of a Marriage, in which Chriſt is the Bridegroom, the Church is the Bride, and the Miniſtery the Virgins.</p>
+            <p>I know the Expoſitions extant of theſe are quite contrary<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Aug. lib.</hi> 83. <hi>Q.</hi> 59. <hi>Inter parabolos à Domino dictus ſolet quarentes
+<pb n="2" facs="tcp:117289:4"/> multum exercere iſta quae de decem virginibus poſita eſt, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quidem hinc multa ſenſerunt, quae non ſunt praeter fidem, ſed quo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dò partibus omnibus ejus conveniat expoſitio id elaborandum eſt,</hi> He that hath a minde to ſee the diverſity of conſtructions given by the Ancients of this parable, let him read <hi>Salmeron in parabolas,</hi> who hath taken the paines to collect them together.</p>
+            <p>Thoſe that have written lately underſtand by the wiſe and fooliſh Virgins, the ſeverall Members of the Church. In which are wiſe and fooliſh, from whence ſome would confirme mixt ſocieties.</p>
+            <p>But that this cannot be meant, is plainly evinced in this, that the Church-Members are to be underſtood in the Bride which is the Church, that is the Lambes wife, and therefore the Virgines are ſuch who are miniſterially imployed about the Marriage of the Church to Chriſt.</p>
+            <p n="1">1 And that which helps moſt clearely to open the Parable is this; That the Lord mainly aimeth at the diſcovery of the ſtate of the Church under Antichriſt, in taking the parable from a Night-Marriage.</p>
+            <p n="2">2 And the reſtoring of the Church to its <hi>quendam</hi> primitive eſtate after his tyranny.</p>
+            <p n="3">3 And briefly ſheweth what things were to happen concerning the Miniſtery, both true and falſe, as the one related to Chriſt, and the other to Antichriſt, untill the ſecond taking of the <hi>Gentiles</hi> to himſelf againe.</p>
+            <p>Object. <hi>Parables ſerve onely to illuſtrate and prove nothing.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I know it is ſo generally conceived, but let me tell you, that the Church practiſe, and many precious propheſies of the Church, are ſo laid up in them, and to be proved from them, and ſo from them as from no Scripture like them, the Lord ſets not out the ſtate of the Kingdome but by parables.</p>
+            <p n="2">2 The Kingdomes Government is never to be clearly knowne but by them, and to be proved thence.</p>
+            <p n="3">3 The Lord declared the Government in parables, as being moſt fit to conduce to the maine end of Gods hiding the Church from the world.</p>
+            <p>And this is plainly ſeen in the anſwer of Chriſt to his Diſciples, <hi>Mat.</hi> 13.10. to the end of <hi>ver.</hi> 15. who demand of Chriſt, <hi>why
+<pb n="3" facs="tcp:117289:4"/> he taught in parables?</hi> who anſwers, <hi>To you it is given, to them it is not given to know the myſteries of the Kingdome, but to the parables it ſelfe.</hi>
+            </p>
+            <p n="1">1 The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, then, is a note of time, and relates to the pre<g ref="char:EOLhyphen"/>dictions of the former <hi>Chapter, ver.</hi> 15. <hi>the abomination of deſola<g ref="char:EOLhyphen"/>tion,</hi> or time of the tyranny of Antichriſt. <hi>ver.</hi> 29. the darkning of the Sunne of earthly glory, <hi>the Moone ſhall not give her light,</hi> the ſad eſtate of the Common-people, and <hi>the Starres ſhall fall from Heaven,</hi> the fall of Miniſtry, <hi>and the Powers of Heaven ſhall be ſha<g ref="char:EOLhyphen"/>ken;</hi> ſignifying the removing of the Church-Governments and Authority then eſtabliſhed. <hi>When the Lord of the evill ſervant, ver.</hi> 48. to the end, <hi>that beat his fellow-ſervants, and eate and dranke with the drunken, ſhould be cut aſunder,</hi> which is, that the Lord ſhould deprive Antichriſt of his miniſtry, that evill ſervant, when the wiſe ſervant which gave meat to the Lords houſhold in due ſeaſon ſhould be bleſſed, reſtored and comforted.</p>
+            <p>Now the Holy Ghoſt relates to the then time, eſpecially, ſhewing in what eſtate the Church ſhould be in reſpect of the miniſtry thereof, ſet downe under the name of Virgins, that is, men ex<g ref="char:EOLhyphen"/>empted from all worldly imployments to Jeſus Chriſt.</p>
+            <p n="2">2 Their Imployment or Miniſtry is ſet out in their Lamps.</p>
+            <p n="3">3 Their Ordination in their taking their Lamps, by which lawfully they may miniſter in the Church to Jeſus Chriſt.</p>
+            <p n="4">4 They are firſt ſummed up together ten Virgins, to ſhew that in reſpect of office calling Miniſtry, they did ſeeme to be one, and agreed.</p>
+            <p n="5">5 <hi>They went forth to meet the Bridegroome,</hi> a metaphor taken from marriages, partly in uſe amongſt us, ſo far as ſufficiently to ſet out the minde of God in this text. In that we ſee uſually at weddings, young men, youth or Virgins, accompany the Bride to the place of marriage, and preſent her to the Bridegroome; which thing is moſt clearly held out and proved by that ſaying of the Apoſtle, 2 <hi>Cor.</hi> 11.2. <hi>I have eſpouſed you</hi> (French Approprier) <hi>to one huſband, that I may preſent you as a chaſte Virgin to Chriſt.</hi> Hence the Apoſtles are called <hi>the Children of the Bride-chamber, Mark<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 2.10.</p>
+            <p n="1">1 You ſee what was done in Church-conſtituting.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:117289:5"/>2 That it was the Miniſters office here called the Virgins, to preſent the Bride or Church to Jeſus Chriſt, proved from the pra<g ref="char:EOLhyphen"/>ctiſe of the Apoſtles, and of the five wiſe Virgins here mentioned, <hi>ver.</hi> 2.</p>
+            <p n="1">1 Theſe ten Virgins are divided into five and five.</p>
+            <p n="2">2 They are diſtinguiſhed by their qualifications: the one five are ſaid to be wiſe, the other to be fooliſh: the wiſe are the true miniſtry, the fooliſh the falſe Antichriſtian miniſtry.</p>
+            <p n="3">3 In that they are divided into five and five, it ſhews that there ſhould be a repreſentation in the falſe Antichriſtian miniſtry, of the true Goſpel-miniſtry of Chriſt, ſome way though not aright, as the <hi>Corinths</hi> begin with falſe Apoſtles, ſo theſe, 2 <hi>Cor.</hi> 11.13.</p>
+            <p>The five Virgins that are ſaid to be wiſe, or the true Goſpel mini<g ref="char:EOLhyphen"/>ſters, are 1 Apoſtles, 2 Prophets. 3 Evangeliſts. 4 Paſtours. 5 Teachers. Now theſe ordin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rily are ordained to preſent the Church, as young men, Virgins, the Bride to the Bridegroome.</p>
+            <p>Now as the wiſe, ſo the fooliſh are alſo five in number, Anti<g ref="char:EOLhyphen"/>chriſt having that falſely in his falſe, Chriſt hath in his true Church in truth.</p>
+            <p n="1">1 To the 12 Apoſtles, the Pope ſet up in <hi>Rome</hi> 12 Cardinals, <hi>Anſelme, Revel.</hi> 13. <hi>Antichriſtus habiturus eſt pſeudos Apoſtol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſuos.</hi>
+            </p>
+            <p>
+               <note place="margin">V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de <hi>P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Num<g ref="char:EOLhyphen"/>ber of the Beaſt. <hi>cap.</hi> 14.</note>As there is a cleare and eminent <hi>Antitheſis</hi> between <hi>Jeruſalem</hi> and <hi>Rome,</hi> ſo is there alſo betweene Chriſts Apoſtles and the Popes Cardinals: there being no perſons in the whole world, of what rank, order, or dignity ſoever, ſtyling themſelves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vicem gerentes Apoſtolorum,</hi> as they doe.</p>
+            <p>
+               <note place="margin">Idem ibid.</note>As the Apoſtles truly were and are the root and foundation of the Chriſtian Church, and all Eccleſiaſticall juriſdiction, ſo the Cardinals falſly pretend themſelves to be, and ſo they truely are, and doe in expreſſe words declare themſelves to be the very baſis and foundation of the <hi>Romiſh</hi> Hierarchy, read that that followeth hereof. So that hence you ſee he proves that what the Apoſtles were in the true, the Cardinals in the falſe. Hence the Pope ſends a Saphire to the new made Cardinals, as foundation ſtones.</p>
+            <p>It is alſo a cleare Note that the five fooliſh Virgins are ſignified in theſe, becauſe the Cardinalls as the Apoſtles of Chriſts mi<g ref="char:EOLhyphen"/>niſtry
+<pb n="5" facs="tcp:117289:5"/> conſiſts of Arch-biſhop Cardinals, Biſhop-Cardinals, Preſ<g ref="char:EOLhyphen"/>byters, and Deacon Cardinals, that as the Apoſtles executed the place of Apoſtles, Prophets, Evangeliſts, Paſtors, Teachers, in the true, ſo theſe Cardinals falſly in the falſe. Now as the Cardinals aroſe from Presbyters. Firſt, ſo in the fall of Presbytery, and that falls with them is the full fall of <hi>Papacy</hi> and <hi>Babylon,</hi> and from theſe five, and not the five wounds of Chriſt as Mr. <hi>Potter,</hi> and ſo by five times five multiply them, to 25 to make their Monks, Fry<g ref="char:EOLhyphen"/>ers, and Maſſe-prieſts, to be the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to them 1 <hi>Chron. Chap.</hi> 25. for what relation is there betweene Chriſts five wounds and 25 miniſters. <hi>Potter Chap.</hi> 24. and the 25.</p>
+            <p n="2">2 To the Prophet, the Pope conſtituted in his Church an Anti<g ref="char:EOLhyphen"/>prophet, or Arch biſhop, which God remarkably, as it were to compleat this Scripture, called the Arch-biſhop of this Kingdome by that name, <hi>Rev.</hi> 16.13. where ſome Eccleſiaſticall perſon under the ſixth violl, in which time wee live, is called by the name of a prophet, or Anti-prophet, hee being to be in that place in the falſe Church the true Prophet is in the true.</p>
+            <p>Object. <hi>Why doe you allude this to the Arch-biſhop of this King<g ref="char:EOLhyphen"/>dome, more then to others of other Kingdomes.</hi>
+            </p>
+            <p>
+               <hi>Reply</hi> 1 The firſt Arch-biſhops of the world were ſet up in this K ngdome, others tooke their patterne from hence, and ye know what honour <hi>Anſelme</hi> had, in being called <hi>Papa orbis,</hi> in a whole Councell of Biſhops at <hi>Barſnenſe,</hi> 1098. and againe ye know that the Arch-biſhop of this Kingdome called the Image of the Beaſt, ruled independently from the Pope, as ſupream himſelfe, &amp;c. <hi>Which was to be ſlain, Rev.</hi> 19.20.</p>
+            <p n="3">3 The Biſhop was underſtood in all ancient writings, which ordinary Evangeliſts in Scripture, the firſt 200 yeares, as in my book called the <hi>Reſurrection of Churches</hi> appeares.</p>
+            <p n="4">4 The presbyter anſwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to the paſtor in the true Church: hence the presbyter uſually uſeth the name <hi>Paſtor,</hi> not Deacon as made firſt and inferiour to paſtors.</p>
+            <p n="5">5 The Deacon in the falſe Church was the Anti-teacher to the Teacher in the true, who was the firſt miniſter of Antichriſts Church, who had not as full authority in Church affairs as the
+<pb n="4" facs="tcp:117289:6"/> Paſtor to adminiſter Sacramentrs, nor the Paſtor as the Biſhop to o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>daine Miniſters, but the Biſhop with the presbyters, as the E<g ref="char:EOLhyphen"/>vangeliſt with the paſtor and Teacher were to do, nor had the Bi<g ref="char:EOLhyphen"/>ſhops that authority as the Cardinals had in the falſe church: as the Evangeliſts had not that authority as the Apoſtles in the true Church.</p>
+            <p>Object. <hi>In the Hierarchy of</hi> Rome <hi>are</hi> 90 <hi>Orders, and more mentioned by</hi> Fox <hi>in his Book of Acts and Monuments: and then what do you tell us of thoſe five?</hi>
+            </p>
+            <p>
+               <hi>Reply</hi> There are ſo, but none of theſe preached the word, as is here ſignified by the Lamps, but either as Biſhops, or Paſtors, Prieſts or Deacons: be their Order what they will, and ſo ſtill the teaching miniſtry of theirs are to be red<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced to one of theſe five.</p>
+            <p>Object. <hi>What ſay you of the Patriarchs?</hi>
+            </p>
+            <p>
+               <hi>Reply</hi> They oppoſed the Pope moſt of them, or rather his predeceſ<g ref="char:EOLhyphen"/>ſors, and after the fall of the true Church, they fained four extraor<g ref="char:EOLhyphen"/>dinary Evangeliſts, <hi>Matthew, Marke, Luke</hi> and <hi>John.</hi>
+            </p>
+            <p>Now that the hiding of the Church may be accelerated hereby, they ſet up four patriarchs in the World at the firſt, the patriarchs of <hi>Rome, Antioch, Alexandria, Hieruſalem,</hi> ſayth one of the pa<g ref="char:EOLhyphen"/>triarchs, <hi>Hi quatuor principio fuere Romanus, Antiochenus, Alex<g ref="char:EOLhyphen"/>andrinus, Hieroſolimitanus, poſtea tranſlata Bizantium Imperii ſe<g ref="char:EOLhyphen"/>de additus eſt Conſtantinopolitanus.</hi> Theſe indeed made way to ſet him up, but when once up, Antichriſt took care to take them down: they being impediments to him, as it were eclipſing the <hi>Papal</hi> glory.</p>
+            <p>The generall Note of this ſecond <hi>verſe</hi> is, that the wiſe are here ſet before the fooliſh, not for that they are preferred before them only, but prophetically ſhewing that the wiſe, and part of that is ſaid concerning them, were in time before the fooliſh, and that the Antichriſtian miniſtry did ſucceed them, and moſt of the things in o der ſet down of them.</p>
+            <p>
+               <hi>Ver.</hi> 3. <hi>The fooliſh t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok their Lamps, and took no oyle with them.</hi>
+            </p>
+            <p n="1">1 Here is the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lly of the fooliſh Virg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns notified, that they took their Lamps<g ref="char:punc">▪</g> their call to the miniſtry without ſpirituall knowledg, or wiſdom to exerciſe their miniſtry by unto the world, as appears in ſome Cardinals that have been Princes, others children, ſo ſome Arch-biſhops, as <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert</hi> Arch-biſhop of <hi>Mentz,</hi> who being at
+<pb n="7" facs="tcp:117289:6"/> the Dyet at <hi>Auſbourge, An.</hi> 1530. who finding a Bible on the table, and reading ſome leavs thereof, where by chance he opened it ſaid, truly I know not what Book this is, but this I ſee it makes all a<g ref="char:EOLhyphen"/>gainſt us. <hi>Luther</hi> in <hi>Erphord</hi> Abbey, happening on the hiſtory of <hi>Hanna,</hi> in the firſt Book of <hi>Samuel,</hi> not knowing what Book it was, wiſhed that he were owner of ſuch a Book as that, this ap<g ref="char:EOLhyphen"/>pears in the Letter of the Pope for <hi>Frederick</hi> of <hi>Lovania,</hi> a ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld to be Canon in the Church of <hi>Lincoln,</hi> which occaſion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llent Return of <hi>Groſted</hi> to Pope <hi>Innocent</hi> the fourth, cited by <hi>Fox:</hi> by which, as by a Thunder-bolt, the Pope and his Cardinals were ſmitten, (who ſay after all the <hi>Bedlam</hi> fury of the Pope uttered againſt him for it.) It is but very truth that he affirmeth, nor can we condemne him therefore, he is a holy man, more holy and re<g ref="char:EOLhyphen"/>ligious then we our ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves of excellent wit, and excellent life, ſo as it is thought among all the Prelates he hath not his better, nor yet his like, and thus having ſpake wounderfully in commendations of him, adviſe him with this Councell (a way not out of uſe in theſe times) that he ſhould diſſemble and wink at theſe things, as one not ſeeing, or regarding them, leaſt otherwiſe, perhaps, ſome tumult may ariſe and ſpring thereof, eſpecially ſeeing this is known and manifeſt to all, that once muſt needs come a diſertion and parting from the Church of <hi>Rome, Fox Acts Mon.</hi> in the life of <hi>Henry</hi> the third.</p>
+            <p n="2">2 It is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their Lamps to ſhew the call of miniſters in the falſe Church was differing from that in the true: the Lamps the fooliſh Virgins had were properly theirs, they had not the Lamps of the wiſe, nor had the wiſe the Lamps of the fooliſh.</p>
+            <p n="1">1 It implyeth, their care was to have the miniſtry for the means ſake, not the ſervice of the Goſpell, nor the glory of God; this was not the leaſt part of their folly.</p>
+            <p n="2">2 They took their Lamps never regarding whether the call they had were Chriſtian or Antichriſtian: they took it without any more adoe, and glad they had it. I do not write theſe things with<g ref="char:EOLhyphen"/>out ſelf-conviction.</p>
+            <p>Verſ. 4. <hi>But the wiſe took oile in their veſſels, with their lamps.</hi>
+            </p>
+            <p>Here the particle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> differenceth the eſtate of the wiſe from the
+<pb n="8" facs="tcp:117289:7"/> fooliſh, and the lamps, or call to miniſtry from the others.</p>
+            <p n="1">1 Signifying they were wiſe, and belonged to the true Church eſtate.</p>
+            <p n="2">2 The call they had was Evangelicall.</p>
+            <p n="3">3 They in their veſſels had oile, being gifted with underſtand<g ref="char:EOLhyphen"/>ing in the minde, with ſpirituall life in the ſoule, with experience and knowledge of God and his way, being taught of God in the heart.</p>
+            <p n="3">3 They had theſe and then took their lamps, ſhewing theſe were not to be divided, and that none were to be made Miniſters but ſuch as were thus qualified.</p>
+            <p n="4">4 In that they took their lamps, ſhews, they did not Miniſter in in the Church without a call.</p>
+            <p n="5">5 They took it being given them of the Church of Chriſt, as the lamps were given the fooliſh in the Church, I cannot ſay of the Churches of Antichriſt.</p>
+            <p n="6">6 The wiſe Virgins are here put laſt, ſhewing that the true Mini<g ref="char:EOLhyphen"/>ſtry ſhall come again into the Church, after the fooliſh, as they were before (<hi>verſ.</hi> 5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but the Bridegroom tarying they all ſlumbred and ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt.</p>
+            <p>Theſe words clearly hold out that the Lord had reſpect to the Churches reſtauration, after the fall of Antichriſt, and the Eſtate of the Church before alſo, and that in the time of Antichriſts Reign Chriſt abſented himſelfe from the Church as it were.</p>
+            <p n="1">1 The ſlumber of the wiſe was firſt, as they are mentioned firſt, <hi>verſ.</hi> 2. In which Prophetically was ſignified by Chriſt, that the time would come in which the true Miniſters, and Miniſtry, would be remiſſe in the Government of their Church, and careleſſe of their duties.</p>
+            <p n="2">2 That this their ſpiritual ſlumber would proceed, or rather in<g ref="char:EOLhyphen"/>deed make way for their ſleep, or extirpation by Antichriſt.</p>
+            <p n="3">3 Moſt ſweetly intimating Prophetically in their ſleep, that for a time 1260. yeares neer their would be an utter ceſſation of the true Goſpel miniſtry in the World.</p>
+            <p n="4">4 In that they are ſaid to ſleep onley, it is alſo intimated that God would againe awaken them, reſtore them, and have their miniſtry againe exerciſed in the Church.</p>
+            <p n="5">
+               <pb n="9" facs="tcp:117289:7"/>5 This we ſee verified, in that the true Church miniſtry ſlum<g ref="char:EOLhyphen"/>bred all before and ſlept ſince Antichriſt, as in my book of the Churches Reſurrection is ſet forth, how by degrees this was accom<g ref="char:EOLhyphen"/>pliſhed.</p>
+            <p>Now as the wiſe ſlumbred and ſlept, the fooliſh they alſo before Chriſt marriage ſhall and muſt alſo have their ſlumber all of them and their ſleep, for the text ſaith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all and every one of them wiſe in their time and the fooliſh in their appointed time likewiſe ſlumbred and ſlept.</p>
+            <p>It is true indeed, it would coſt not a little panis to a man to finde how, when and in whom the wiſe Virgins ſlept, becauſe it is long ſince done, &amp; monuments of Antiquity are loſt, eſpecially the chief, &amp; thoſe are left are little worth. I cannot paſs by that of <hi>Auguſtine, de moribus Eccleſiae, cap.</hi> 30. <hi>Tu puerilliter pueros fortiter juveneſque &amp; ſenes, prout cujuſque non corporis tantum, ſed animi aetas eſt, exerces &amp; doces:</hi> this was but too little purpoſe preſſed in the time of the ad<g ref="char:EOLhyphen"/>miniſtration of a ſingle Miniſtry: and the Churches almoſt falne e<g ref="char:EOLhyphen"/>ſtate.</p>
+            <p>But for the ſlumber of the falſe Church which is of later times, there is no ſuch obſcurity in that.</p>
+            <p n="1">1 The ſlumber of Cardinals was when they came from 12, a<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut 423. in <hi>Coeleſtines</hi> time, to be after 25, as <hi>Potter Numb. of the Beaſt, cap</hi> 19. where he ſheweth that Cardinals, Biſhops and Dea<g ref="char:EOLhyphen"/>cons, were not originally in the Colledge of Cardinals, when their firſt number were decreed, but are rather redundant extuberances of the Papacy built upon, and dangerouſly over-hanging that ancient foundation of the Presbyter Cardinals: this ſlumber hee makes to begin to be the Number 25 (but I rather conceive at the Number 12) when <hi>Alexander</hi> the third, in the yeer 1163, made <hi>Conradus Suenus</hi> Archbiſhop of <hi>Mentz,</hi> one of the Colledge of the Cardi<g ref="char:EOLhyphen"/>nals.</p>
+            <p n="2">2 The ſleep of the Cardinals in this Kingdom, was in the death of Cardinall <hi>Poole,</hi> who died the next day after Queen <hi>Mary,</hi> of ſome <hi>Italian</hi> phyſick, as ſome ſuſpect, being the 18th. of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1558.</p>
+            <p>The ſlumber of the falſe prophet and Anti-Evangeliſt, was in the time of <hi>Henry</hi> the Eighth, when they were made to acknowledge
+<pb n="10" facs="tcp:117289:8"/> the Kings Supremacy and not the Popes, in the yeer 1531. whoſe ſleep was brought on the falſe prophet and Anti-Evangeliſt, in the yeer 1644, in the making of that Ordinance appointed, the taking the Covenant, the ſecond branch wherof was, that without reſpect of perſons, we ſhould endevour the extirpation of Popery and Pre<g ref="char:EOLhyphen"/>lacy that is, Church Government by Archbiſhops, Biſhops, &amp;c. which ended in <hi>William Laud, Jan,</hi> 10. 1644.</p>
+            <p>The ſlumber of the Anti-teacher, was in that ſlumber, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>il on the re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t 1531, and is falne aſleep, and no man knoweth how, it being now apparent to all that Deacons were not teachers in the Church as Deacons, but miniſtred almes to the poore only, ſo that now there is none acknowledged: and ſo none awake but the Presbyter that is the Antipaſtor.</p>
+            <p>Let me ask the Queſtion, are they awake or do they ſlumber, ſure heavens thunder cannot keepe them long from ſleeping, me thinks, the Queſtioning miniſters calling, the not ſuffering the Preſ<g ref="char:EOLhyphen"/>byterian Government, to be <hi>Jure divino,</hi> and the daily ſhaking of her foundations are very dangerous ſignes, ſhe is in a deadly ſlumber, ſhe would elſe awake and ſpeak for her ſelf.</p>
+            <p>Object. <hi>Here it is queſtionleſſe, ô but in</hi> Scotland, <hi>it is awake.</hi> Here friends I ſpeak not of envy to any, but to glorify God in ſpea<g ref="char:EOLhyphen"/>king the truth. Presbytery muſt ſleep in <hi>Scotland,</hi> as well as Epiſ<g ref="char:EOLhyphen"/>copacy in <hi>England,</hi> Epiſcopacy had as great friends and command here in <hi>England,</hi> as presbytery ever had in <hi>Scotland,</hi> or can have, and had it's glory of longer continuance, and it is no leſſe ordained <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, that presbytery ſhall ſleep then Epiſcopacy.</p>
+            <p>Friends, do you not conſider, you that made that clauſe in the 2<hi rend="sup">d</hi>. branch of the Covenant, where we are to endeavour the extirpati<g ref="char:EOLhyphen"/>on not only of Arch-biſhops, Chancellors, Commiſſaries, &amp;c. but all other Eccleſiaſticall Officers depending on that Hierarchy? do not presbyters depend on that Hierarchy? I do beleeve in time this will be made uſe of againſt presbytery, if not, on what Hierar<g ref="char:EOLhyphen"/>chy doth it depend? Note it all ye to whom this Writing ſhall come, that as certainly as ye have ſeen the ſleep of Cardinals, Arch-bi hops, Biſhops, and Deacons, which are four of the fooliſh Vir<g ref="char:EOLhyphen"/>gins, ſo certainly ſhall ye ſee the ſleep of presbyters in this Land, the whole Earth ſhall not hinder it, ſhe being the fift.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:117289:8"/>2 The time cannot belong, it precedes the marriage of the Lamb, as near as it is, this is the laſt; ô expect thy ſleep.</p>
+            <p>Object. <hi>Why if this ſhould be what ſhall we do for Miniſters?</hi>
+            </p>
+            <p>
+               <hi>Reply</hi> God will furniſh the Land with Teachers, for if he give the Word, great will be the company of Preachers, and truly friend, I cannot write this, nor think of it but with admiration of that work, moſt certainly God will do in this Kingdome, when the ſcoffers of the times will be aſhamed.</p>
+            <p>
+               <hi>Verſ.</hi> 6. <hi>At midnight a cry was made, behold the Bridegroome cometh, go ye out to meet him.</hi>
+            </p>
+            <p>What the ſeverall Expoſitions here are of the day of Judgment and the like I ſhall paſſe by as impertinent, and ſhew you.</p>
+            <p n="1">1 That marriages in thoſe parts were oft times celebrated in the night, when the younger ſort of people attending with the Bride, went to meet the Bridegroom, and accompany him into the Brides cha<g ref="char:cmbAbbrStroke">̄</g>ber, but in that, it is ſaid to be at midnight, it may be imputed to the word delay before <hi>v.</hi> 5. which time of delay, was the time of An<g ref="char:EOLhyphen"/>tichriſt, untill his time of tyranny, and his Government were ended, as expreſſed of the ill ſervant in the time of his Lords delay, <hi>beating his fellow-ſervants, and eating and drinking with the drunken, Cap.</hi> 24. <hi>ver.</hi> 48, 49. <hi>When the Lord came, he cut him in two, &amp;c.</hi> and the word <hi>delay</hi> ſhews marriages were not uſually made ſo late at night.</p>
+            <p n="2">2 It may be he alludes to the firſt publick notice of Chriſts com<g ref="char:EOLhyphen"/>ing to his Church, in <hi>Jerom</hi> of <hi>Prage,</hi> or <hi>Luthers</hi> time, which was but a little better then the darkeſt time of Popery.</p>
+            <p n="3">3 A cry in the teaching of the Goſpell now is made of Chriſt's coming, he being other ways held out in the doctrine taught now, then in that before <hi>Luther.</hi>
+            </p>
+            <p n="4">4 They are called on to go out to meet the Lord, that is, to per<g ref="char:EOLhyphen"/>forme their miniſteriall duty, in bringing Chriſt to the Church, and in preſenting the Church to Chriſt: this begins I ſuppoſe with <hi>Luther</hi> in ſome kind, becauſe Cardinals were ſleeping, and Arch-biſhops and Biſhops ſlumbring: but indeed the true time, or full time of the cry, will be when all are aſleep: and it may well be called midnight, when the miniſtry is all as it were true and falſe, aboliſhed the true by Antichriſt, and Chriſt by his coming abo<g ref="char:EOLhyphen"/>liſheth
+<pb n="10" facs="tcp:117289:9"/> Antichriſts miniſtry again. When God ſhall do this, what rayling will there be againſt Authority as if they overthrew it.</p>
+            <p>
+               <hi>Ver.</hi> 7. <hi>Then all thoſe Virgins aroſe, and trimmed their Lamps.</hi>
+            </p>
+            <p n="1">1 At this time when the fooliſh Virgins, and the Presbyter the laſt of them, ſlumbers, God brings again, and awakens the five wiſe Virgins, the true Goſpel miniſtry.</p>
+            <p n="2">2 Then there is much trimming of Lamps, that is, proving of calling, miniſtry, and Government, by Archbiſhops, and Biſhops, as Doctor <hi>Field,</hi> by presbytery, <hi>Calvin, Rutherford,</hi> by the Goſ<g ref="char:EOLhyphen"/>pell miniſtry, by him whoſe name is not meet to be mentioned, in the day Chriſt's miniſtry ſhall be ſpoken for.</p>
+            <p n="3">3 Indeed<g ref="char:punc">▪</g> I ſuppoſe, there may be yet a time after the presbyters ſleep: in which liberty will be granted to men for Epiſcopacy, and Presbytery to plead their call freely and publickly, it may be before the ſupream Magiſtrate, ſitting in judgment, as it were to de<g ref="char:EOLhyphen"/>termine that the controverſie int<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nated in <hi>Daniel</hi> 7. <hi>ver.</hi> 13, 14.</p>
+            <p n="4">4 In that it is ſaid, they aroſe, it ſheweth as men aw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d out of ſleep, they will come to this debate of all ſides, rowſed up from the loſſe they before had, or are like after to ſuſtaine.</p>
+            <p>Now the raiſing of all theſe are implyed by the Apoſtle, <hi>Re<g ref="char:EOLhyphen"/>vel.</hi> 20. <hi>ver.</hi> 4, 5. in which are two dead.</p>
+            <p n="1">1 Thoſe that were beheaded, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luding to <hi>John</hi> the Baptiſt, by which means their Miniſtry ceaſed, who had not worſhipped the Beaſt, nor his Image, nor had received his mark in their foreheads, or hands, they lived againe, that is, came againe to exerciſe their Miniſtry in the Church, by their Succeſſors.</p>
+            <p n="2">2 They had not worſhipped the Beaſt, but were before him, and extinguiſhed by him; nor ſhall thoſe that are to be, be of him at all.</p>
+            <p n="3">3 Its preciouſly alluded to <hi>John</hi> the Baptiſt, that <hi>Eliah</hi> which was ſaid to come in Chriſt's time, and now againe in ſome other to come, as in <hi>Malachy</hi> the 3d. <hi>Turning the hearts of the fathers to the children, and children to their fathers.</hi>
+            </p>
+            <p n="4">4 There are others dead which received the Marks, and they lived nor again untill the 1000 years were finiſhed, which are the other min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtry oppoſed to that lived, are the fooliſh &amp; wiſe Virgins.</p>
+            <p>
+               <hi>Ver.</hi> 8. <hi>The fooliſh ſaid to the wiſe, give us of your oyle, for our Lamps go out.</hi>
+            </p>
+            <pb n="13" facs="tcp:117289:9"/>
+            <p>Before this great time of Judgement, or tryall of Miniſtry, the Miniſtry of Biſhops, Arch-biſhops, and Presbyters, may be ſaid to be blown out, that is, by violence be made to ceaſe: they indeed being by no means at the time of putting out, otherwiſe to be put out; and ſhall we think Presbytery will not be put out as the reſt, and not go out untill the time the reſt do go out with her.</p>
+            <p n="2">2 At this time of tryall, they all will go out of their own accord; ſo that there remains another way of cauſing the ceſſation of the paſt Miniſtry in the Church, then any yet hath been ſeen, which will be by the power of the Word, proving the unſoundneſſe of it, and ſo kindly and quietly cauſe it to ceaſe.</p>
+            <p n="3">3 The whole miniſtry goeth out in this grand commotion, and none untill now, now men will acknowledge that their ſtanding by Biſhops, or by Presbyters, is not Evangelical; they go out: There is much difference between blowing out a Lamp, and the letting of it burn ſo long untill it can burn no longer for want of oyle; when it goeth out of it ſelfe, and there is no lighting of it again, there being then left them no plea to miniſter by.</p>
+            <p n="4">4 They ſay to the wiſe, ſignifying an acknowledgment or ingenious conviction of them of the unſoundneſſe of their miniſtry, even to the wiſe Virgins from their own mouthes.</p>
+            <p n="5">5 <hi>Give us of your oyle?</hi> which implyeth a great deſire in men to have renewed their Miniſtry, and ſignifieth an honourable eſteem, the faithfull Miniſtry of the Goſpell, ſhould have of others in that day.</p>
+            <p n="6">6 An acknowledgment of the lawfulneſſe of the Goſpell Mini<g ref="char:EOLhyphen"/>ſters Ordination, however it ſhall be reſtored (which is to be thought to be as before, by the Magiſtrates approbation) and thence deſires to be ordained by them.</p>
+            <p n="7">7 It may be by <hi>Give us your oyle,</hi> may be meant a deſire of the fooliſh, that the wiſe would acknowledge them for true Miniſters of the Goſpell, and give them the right hand of fellowſhip to mi<g ref="char:EOLhyphen"/>niſter in the Church with them. And this ſeems fitly to ſuite with the words of the Text following.</p>
+            <p>
+               <hi>Ver.</hi> 9. <hi>But the wiſe anſwered, not ſo, leſt there be not enough for us and you.</hi>
+            </p>
+            <p n="1">1 Signifying that whether it be Ordination, or aſſocitation, or
+<pb n="14" facs="tcp:117289:10"/> acknowledgment of their Miniſtry, or what ever elſe, they are de<g ref="char:EOLhyphen"/>nyed it of the Goſpell miniſtry.</p>
+            <p n="2">2 The Reaſon is ſatisfactory, viz. <hi>leaſt there be not enough for us and you,</hi> ſignifying this, they could not acknowledg their Mini<g ref="char:EOLhyphen"/>ſtry to be true, and their own not be falſe, or if their own were true, then were the others falſe; Again, the truth had acknowledged one true, in calling them wiſe, and the other falſe in calling them fooliſh.</p>
+            <p n="3">3 Hence it ſeems to me, that presbytery that ſo highly declared a<g ref="char:EOLhyphen"/>gainſt, Epiſcopacy, for Antichriſtian hath it's day now approching, to be declared againſt in like manner, and I hope no man will be ſo vainly minded, as to ſay, this Conſtruction was taken of Maſter <hi>Lillies</hi> Aſtrology; for the future as ſome maliciouſly have objected.</p>
+            <p>Object. <hi>A man may ſee by the coarſe of things.</hi>
+            </p>
+            <p n="1">1 It is near two years ſince, I firſt affirmed this, ſince which there is more likelyhood then before, but is there any likelyhood it falls in <hi>Scotland;</hi> are not all for it? there is not a <hi>Schiſmatick</hi> allow<g ref="char:EOLhyphen"/>ed, it is long ſince I was perſwaded of its fall there, there are many in this Kingdom that have to ſhew it under my hand, as thoſe letters may ſhortly in part ſhew that I wrot to ſeveral of the presbytery, who have ſpared no pains to plague me in name or goods for it, as I intend to ſhew at large hereafter; when I have done my intended Expo<g ref="char:EOLhyphen"/>ſition on the <hi>Revelations<g ref="char:punc">▪</g>
+               </hi> if God permit, they provoking Authority therunto like another whore riding the Beaſt. The Lord knoweth I write not this to offend any man, nor hath any man cauſe to be of<g ref="char:EOLhyphen"/>fended, if it be truth, as the Apoſtle <hi>Gal.</hi> 4. <hi>ver.</hi> 16. Am I therefore your enemy, becauſe I tell you the truth?</p>
+            <p>
+               <hi>Ver.</hi> 9. <hi>But go rather to them that ſell, and buy for your ſelves.</hi>
+            </p>
+            <p n="1">1 If the words were ſpoken ſarcaſtically, then it is as if they ſhould bid them go to the Pope, who ſold the miniſteriall calling.</p>
+            <p n="2">2 Or rather they containe, an advice to them to adjoyn them<g ref="char:EOLhyphen"/>ſelves to a true Church rightly conſtituted, and from them to take a call thereunto, it being delegated of God to them to give.</p>
+            <p n="3">3 It is intimated, that in theſe times there will be much care had of keeping the Goſpel Government entire in the Church, and that nothing in her Government ſhall be done irregularly, as in the times paſt they have been.</p>
+            <pb n="15" facs="tcp:117289:10"/>
+            <p>
+               <hi>Ver.</hi> 10. <hi>While they went to buy.</hi>
+            </p>
+            <p n="1">1 They take the advice given, ſo that it ſhould ſeem it was not ſpoken ſarcaſtically, if it had, they would have diſcerned it, I think they would not have gon to <hi>Rome</hi> for it.</p>
+            <p n="2">2 Chriſt is ſayd to come, when there will again be a viſible and ſenſible difference of Chriſts preſence in the Miniſtry, and means of what there was formerly: he was then abſent, &amp; as if not at all in prayer preaching, &amp;c.</p>
+            <p n="3">3 This coming or manifeſtation of God in the means, provokes the Miniſtry the more to deſire to be admitted to the exerciſe thereof.</p>
+            <p>
+               <hi>Ver.</hi> 11. <hi>Thoſe that were ready, entred with him to the Marriage.</hi>
+            </p>
+            <p n="1">1 At the Coming of Chriſt it is implyed, ſome ſhall be ready, that is, ſhall be indowed with gifts, calling and miniſtry according to the Goſpell, who ſhall be made uſe of to celebrate the Nuptials of the Lambe.</p>
+            <p n="1">1 Before it is ſaid, while they went to buy, the Bridegroome came.</p>
+            <p n="2">2 See what hinders, the Lord wil not come until their lamps be cut, and they gon to buy.</p>
+            <p n="3">3 This is the deſtroying Antichriſt, by the brightnes of his coming, he conſuming her by pieces and parts, now a little, and then a little.</p>
+            <p>
+               <hi>The doore was ſhut.</hi>
+            </p>
+            <p>Notes the adminiſtration of the Goſpel, would be kept pure a<g ref="char:EOLhyphen"/>gainſt all means that tend to defile them, and be other ways kept then before.</p>
+            <p>
+               <hi>Ver.</hi> 11. <hi>Then came the other Virgins.</hi>
+            </p>
+            <p n="1">1 It is emphaticall, the Scripture calls them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the other Virgins, <hi>not the fooliſh Virgins</hi> now, becauſe they now ſeeing their former folly, laying down their Call, ſeeking admiſſion to be with Chriſt, ceaſed to be fooliſh and began to be wiſe.</p>
+            <p n="2">2 They had a minde to be with Chriſt, but it was unſeaſonable, it was after the doore was ſhut, the unwiſe man begins to be wiſe when it is too late.</p>
+            <p>
+               <hi>They ſay, Lord, Lord open to us.</hi>
+            </p>
+            <p n="1">1 They deſire admiſſion to be a Church-miniſter, or at leaſt a Church-member; at that time of plenty and power of the Spirit, which will be the moſt deſirable thing in the world.</p>
+            <p n="1">
+               <pb n="16" facs="tcp:117289:11"/>1 Their earneſtneſs is emplyed in their reiterated Cry of <hi>Lord, Lord.</hi>
+            </p>
+            <p n="2">2 Their expectation of favour more then others open to us, though thou open to none, yet open to us, thou art our Lord, wee are thy ſervants, we waited long for thy coming to thy Church.</p>
+            <p>
+               <hi>Applic.</hi> When the ſoul is ſenſible of it, it is then a ſad thing in<g ref="char:EOLhyphen"/>deed to be ſhut out of Heaven from Chriſt and Saints,</p>
+            <p n="2">2 In the right conſtituting of Churches Excommunication will have greater effects on the ſpirits of men then in time paſt, <hi>Mat.</hi> 18 11, 12. <hi>And I ſay unto you, that many ſhall come from the Eaſt and Weſt, and ſhall ſit down with Abraham, and Iſaac, and Jacob in the kingdom of heaven. But the children of the kingdom ſhall be caſt into outer darkneſs: there ſhall be weeping and gnaſhing of teeth.</hi> When <hi>ye ſhall ſee Abraham, Iſaac,</hi> and <hi>Jacob in the kingdom of God, and your ſelves ſhut out, then ye ſhall weep.</hi>
+            </p>
+            <p>
+               <hi>Ver.</hi> 12. <hi>Chriſt anſwereth verily, I ſay unto you I know you not.</hi>
+            </p>
+            <p n="1">1 None are to be admitted but by Chriſts approbation, <hi>he is the doore.</hi>
+            </p>
+            <p n="2">2 Chriſt denies their petition.</p>
+            <p n="3">3 On this ground, <hi>I know you not,</hi> that is, <hi>ſcientia approbationis.</hi>
+            </p>
+            <p n="1">1 Now Chriſt makes known to the ſoul, that it is diſerted of him, which ſaddens the heart, and fils it with fear.</p>
+            <p n="2">2 In that he ſayth, I ſay to you it takes away all plea, or anſwer in the caſe whatſoever, men indeed may plead againſt men, but a<g ref="char:EOLhyphen"/>gainſt the Word of God is no obj cting. <hi>Ver.</hi> 13. ye have the ap<g ref="char:EOLhyphen"/>plication of this ſpirituall Coming of his before ſpoken of.</p>
+            <p n="2">2 In it is prophetically foretold the laſt perſonall coming of Chriſt to Judgment, ſaying, <hi>Watch therefore, for ye know not the day nor the hour, wherein the Sonne of man cometh.</hi>
+            </p>
+            <p>Now that this fore-cited <hi>Parable</hi> reſpects the eſtate of the Church, and the end of Antichriſt as applyed; I ſhall commend to your conſideration the Parable ſet down of <hi>Matthew,</hi> in <hi>Chap.</hi> 22. from <hi>Verſ.</hi> 1. to <hi>Verſ.</hi> 12.</p>
+            <p n="1">1 The wedding is a wedding made in the day, ſetting out the eſtate of the Church, before the Antichriſtian night came upon the World.</p>
+            <p n="2">2 The preſent eſtate in the Apoſtles times, and after to the time of Antichriſt, is herein mainly intended.</p>
+            <p n="1">
+               <pb n="17" facs="tcp:117289:11"/>1 From <hi>Verſ.</hi> 2. to the 8 reſpects the <hi>Jewiſh</hi> eſtate of the Church, until their captivity under <hi>Titus.</hi>
+            </p>
+            <p>
+               <hi>Verſ.</hi> 2. The <hi>Kingdom</hi> and <hi>Mariage</hi> ſignifie the Goſpel Govern<g ref="char:EOLhyphen"/>ment ſet up, the <hi>Apoſtles gathering Churches out of the Jewiſh Na<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Verſ.</hi> 3. <hi>The Apoſtles ſent out to gather them, Mat.</hi> 10. <hi>v.</hi> 5. <hi>and the propheſie fulfilled. Acts</hi> 13.46.</p>
+            <p>
+               <hi>Verſ.</hi> 4. <hi>He ſends forth other ſervants, which were the</hi> 70, <hi>Luke</hi> 10.1. <hi>who were other in their call and perſons, or thoſe ſent out by the A<g ref="char:EOLhyphen"/>poſtles after Chriſt and by the Church.</hi>
+            </p>
+            <p>
+               <hi>Verſ.</hi> 5. <hi>and</hi> 6. <hi>The effects of the Miniſtry upon them is ſet down, ſome are perſecuting, other ſcoffing, Acts</hi> 12.2. <hi>&amp; cap.</hi> 7.38. <hi>cap.</hi> 9.1.</p>
+            <p>
+               <hi>Verſ.</hi> 7. <hi>All this was to be done before the Lord did ſend the Ro<g ref="char:EOLhyphen"/>mane Army and before the deſolation of their Cities.</hi>
+            </p>
+            <p>
+               <hi>Verſ.</hi> 9. <hi>He proceeds to the call of the Gentiles, which ſucceeded the refuſall of the Jews, Acts</hi> 13.46. <hi>As for the Expoſition of the reſt of the Parable, I underſtand it to agree with the Parable of the fiſh and tares.</hi> See <hi>the Smoake of the Temple,</hi> about the latter end thereof.</p>
+            <p>
+               <hi>Applica.</hi> This Parable precedes that of the Virgins, as the day precedes the night, ſo the Goſpel day did the Goſpel night, and as where the day ends the night begins, ſo do I conceive, that where this Parable of the Goſpel day ends, there the Parable of the Night begins, ſhewing prophetically what would be brought forth in the world, during that time of Antichriſts reigne unto the time of the Lords Marriage; and after, as concerning t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e miniſtry and govern<g ref="char:EOLhyphen"/>ment of the Church in its firſt conſtituting to the Parable of the night.</p>
+            <p>
+               <hi>Applica.</hi> To take away the ſtrange thoughts that the world, yea, good men will have of the <hi>Parl.</hi> &amp; their proceedings, though guided of God (and their diſaffection to the army) <hi>who will then cry out.</hi>
+            </p>
+            <p n="1">1 The Archbiſhops, then the Biſhops and the Reading mini<g ref="char:EOLhyphen"/>ſters, and the ſcandalous miniſters, and the malignant miniſters, as they tearmed them muſt go down. O! but now what do they mean? the good miniſters as they call'd them, thoſe that preached for them, they put down them alſo? is this the reformation they told us of in their <hi>Declarations?</hi>
+            </p>
+            <p n="2">2 They took down Common-prayer in our Churches, and then
+<pb n="19" facs="tcp:117289:12"/> turned two or three Churches into one, that we may have preach<g ref="char:EOLhyphen"/>ing, nor have we the Sacraments in many places this ſix yeers, and now preaching is going away out of the Pariſh alſo; and all this cryed up for Reformation.</p>
+            <p n="3">3 The Abbey Lands were took from the Miniſtry, the Biſhops Lands, and now the Dean and Chapters Lands, and the Tythes, they ſay, ſhall be took away alſo: and it is thought the parſonage Houſes, and Glebe Land will be took from the miniſtry alſo, and at laſt, what wil they do with the Churches?</p>
+            <p>
+               <hi>Reſp.</hi> I beſeech you, take heed, and do not thinke hardly of the <hi>Parliament,</hi> if ever ye ſee theſe things; they as little think of doing theſe things as you: witneſſe their <hi>Declarations.</hi>
+            </p>
+            <p n="1">1 God will have the fleſh of <hi>Antichriſt</hi> eaten, that is, all that maintenance that comes to the <hi>Miniſtry</hi> by her means. Now theſe things all of them came by her, be content, God will have it ſo.</p>
+            <p n="2">2 God will have <hi>Antichriſt</hi> in the more ſpirituall part, as it were the ſoul of <hi>Antichriſt,</hi> that cannot be eat to be burned in fire, which is the <hi>Polity</hi> or <hi>Government</hi> of <hi>Antichriſt,</hi> of which <hi>Preſbytery</hi> is no leſſe a part then <hi>Epiſcopacie,</hi> together with the <hi>An<g ref="char:EOLhyphen"/>tichriſtian</hi> doctrines of hers.</p>
+            <p>
+               <hi>Object. O! but theſe are good men.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> And who will ſay many of thoſe under Epiſcopacy were not. If good men ſtand in a bad place, they muſt be removed as trees, and planted into a better, to this metaphor, the Apoſtle al<g ref="char:EOLhyphen"/>ludes, 1 <hi>Coloſſ.</hi> 13.</p>
+            <p n="3">3 Theſe men ſhall doe thoſe things doing Gods will, indeed, but it is in the dark, and ſhews when they go about to do them, none ſhall hinder them, it being Gods will it muſt be done: and let me ſay to all concern'd herein as <hi>Gamaliel</hi> in the <hi>Acts</hi> 5.39. <hi>If this be of God, ye cannot overthrow it, leſt happily ye be found fighters againſt God.</hi>
+            </p>
+            <p n="4">4 Should you ſay to the <hi>Parliament</hi> as <hi>Eliſha</hi> to <hi>Hazael,</hi> 2 <hi>Kings</hi> 8.12. <hi>You will do this evill,</hi> take away all the maintenance and <hi>Miniſtry</hi> almoſt of the Kingdom into (three or foure) and then wil ye not bring this brave flouriſhing knowing Kingdom into deep darkneſſe, Atheiſme, worſe then <hi>Popiſh,</hi> like that of <hi>America,</hi> &amp;c.</p>
+            <p>I believe, the anſwer would be, <hi>Do you think we are Dogs that we ſhould ever do ſuch things as theſe?</hi>
+            </p>
+            <pb n="19" facs="tcp:117289:12"/>
+            <p>But where I may apply that of the Prophet, <hi>that God hath ſhew<g ref="char:EOLhyphen"/>ed to me, that theſe things ſhall be done,</hi> I leave to the iſſue of things t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove.</p>
+            <p n="5">5 <hi>Applic.</hi> Was there ever ſuch trouble at the removing of theſe ſeverall <hi>Miniſters</hi> of the falſe Church, as in Cardinall <hi>Wolſeys Prae<g ref="char:EOLhyphen"/>munire;</hi> for <hi>Poole</hi> was but as titular, and acted little as if dead: and in removall of Archbiſhops and Biſhops and their <hi>Praemunire:</hi> can we think though the Deacons fal quietly, that the Presbyters fall will not coſt much bloud, eſpecially in <hi>Scotland.</hi> Do not we ſee what doings now there are in <hi>France?</hi> and how they are carried againſt the firſt of the <hi>fooliſh Virgins,</hi> the Cardinall <hi>Mazarine,</hi> who have all their work to do: but before any peace be in that Kingdom, wil do all together.</p>
+            <p>
+               <hi>Applic.</hi> To the Kingdom untill you ſee theſe things, you can ne<g ref="char:EOLhyphen"/>ver ſee peace, you can never come out of <hi>Babell,</hi> you can never ſee the <hi>Marriage of the Lambe,</hi> nor behold the good days of God fore<g ref="char:EOLhyphen"/>told in the Scripture: theſe things foreſpoken of, make way for theſe to come amongſt us: therefore know, as contrary to thee, as they ſeem to be, yet they are according to God. And it is moſt true, if we ſhould conſult with fleſh and bloud about theſe things, we were utterly loſt herein.</p>
+            <p>
+               <hi>Applic.</hi> To <hi>Miniſters,</hi> ye ſee what ſad things are coming on us. I deſire you not to <hi>accompt me your enemy, becauſe I tell you the truth, Gal.</hi> 4.16. Many may be happy by it, that have hearts to make uſe of it; if this be not <hi>Truth,</hi> let me then be accompted the <hi>Miniſters</hi> publike Enemy, whom ſurely in heart I have not the leaſt deſire to offend of my ſelf at all, but it ſeems to me providence fore<g ref="char:EOLhyphen"/>tels you, you ſhall ſtir up the hatred of the Magiſtrate againſt you; and then you will occaſion him to eat the remaining fleſh, and to conſume the remaining <hi>feces</hi> of <hi>Antichriſts Polity</hi> amongſt us.</p>
+            <p>To the Magiſtrate, <hi>Rev.</hi> 20.4. <hi>Thrones were ſet, and judgement was given to them, and the ſouls of them beheaded, &amp;c.</hi> and <hi>cap. ver.</hi> 5. <hi>This is the firſt Reſurrection.</hi> I ſuppoſe theſe things in a judiciall way will be brought to paſſe in the world, <hi>Dan.</hi> 7.13, 14. are at that time to be accompl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed, Scriptures, I beleeve when accom<g ref="char:EOLhyphen"/>pliſhed will plainly appear to have been very ſtrangely miſunder<g ref="char:EOLhyphen"/>ſtood, and miſ-applyed, which I leave to time to evidence, and
+<pb n="20" facs="tcp:117289:13"/> the troubles that do ſucceed upon removing the Presbytery, and that appertains <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereunto, is that laſt <hi>Woe</hi> I mentioned in the Epi<g ref="char:EOLhyphen"/>ſtle dedicated to his Excellency, the Lord <hi>Fairfax,</hi> Generall, before the Forme of Goſpel-Government. I cauſed to be printed about <hi>January</hi> the 14th. 1648.</p>
+            <p>Object. <hi>You have ſpoken of Antichriſts Miniſtry, as of a ſingle Miniſtry: and now come to compare the Miniſtry of Chriſt which are five in the true Church, to Antichriſt as having five alſo diſtinct in her falſe Church.</hi>
+            </p>
+            <p n="1">1 <hi>Bellarmine</hi> acknowledgeth, 2 <hi>Tom. de Cler. Cap.</hi> 16. That a Cardinall is but as a pariſh prieſt in his own Title.</p>
+            <p n="2">2 They were <hi>Preſbyter-Cardinals,</hi> and ſo no more but chiefe Presbyters: they having in their Churches but a Single <hi>Miniſtry:</hi> for as in their Churches a <hi>Biſhop</hi> miniſtred not to them, nor any <hi>Archbiſhop,</hi> or <hi>Preſbyter,</hi> unleſſe as <hi>Curate,</hi> or <hi>Subſtitute:</hi> only <hi>Vide Potter, Numb.</hi> 666. <hi>Cap.</hi> 19. The five Goſpell <hi>Miniſters</hi> being in every true Goſpell conſtituted Church, the five falſe in the <hi>Romane Catholick</hi> Church, or Nationall. <hi>Forbs. Irenicu. Cap.</hi> 11. <hi>de Epiſcop. Propoſ.</hi> 10, <hi>Quando Preſbyter fit Epiſcopus, non deſinit eſſe preſbyter, &amp;c. Peculiarem habens Eccleſiam Parochialem quae ipſi ſit Cathedralis, id eſt, ad quam conſtantèr reſideat, &amp;c.</hi>
+            </p>
+            <p>Now for Presbyters and Deacons, they were practiſed amongſt us ſingly, which is proofe ſufficient.</p>
+            <p>Which clears to us, That while <hi>Antichriſt</hi> had his five falſe <hi>Anti-miniſters,</hi> he had them in a falſe way, and not as the true Church: each one doing in the Church ſingly, as concerning the <hi>Miniſtry,</hi> and alone; which all the true Church ordinary <hi>Miniſtry</hi> were to do together, there being no diviſion of Members, under the <hi>Cardi<g ref="char:EOLhyphen"/>nals,</hi> the <hi>Archbiſhops,</hi> or <hi>Biſhops Miniſtry,</hi> more then in the loweſt <hi>Preſbyters</hi> in that <hi>Hierarchy,</hi> nor did he any thing differ in his <hi>adminiſtrations</hi> from them, as the Apoſtles did from Prophets, they from <hi>Evangeliſts,</hi> they from <hi>Paſtors</hi> or <hi>Teachers</hi> in the true Church, theſe in the falſe Church, differed indeed in ſome things, in reſpect of their whole <hi>Antichriſtian Babyloniſh Hierarchy,</hi> but not in particu<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Titles,</hi> or <hi>Pariſh</hi> Churches.</p>
+            <p>
+               <hi>Applic.</hi> To <hi>Scotland,</hi> In her is the Root of <hi>Presbytery,</hi> as <hi>Epiſ<g ref="char:EOLhyphen"/>copacy</hi> was in <hi>England:</hi> though that <hi>Geneva</hi> gave as it were firſt
+<pb n="21" facs="tcp:117289:13"/> being unto it under <hi>Calvin:</hi> for in <hi>Scotland, Nationally</hi> it was received and confirmed by one of the ten <hi>Kings</hi> of the <hi>Romane Monarchy,</hi> &amp;c.</p>
+            <p n="1">1 They ſhall by the <hi>Preſbytery</hi> be ſtirred up to warre, and be o<g ref="char:EOLhyphen"/>vercome by the Saints they warre againſt, called <hi>Hereticks,</hi> and <hi>Schiſmaticks,</hi> the old <hi>Romane</hi> way of proceeding againſt beleevers, they themſelves are called ſo at <hi>Rome.</hi>
+            </p>
+            <p n="2">2 They will come in the end to hate the <hi>Preſbytery,</hi> God will make them naked have their riding the <hi>Beaſt,</hi> that is, the Tem<g ref="char:EOLhyphen"/>porall Authority of that Kingdome opened to them, and their ſtan<g ref="char:EOLhyphen"/>ding be made, appear not to be <hi>Evangelicall,</hi> by which means the Kingdome of <hi>Scotland,</hi> ſhall come to hate them, and take away all <hi>Authority</hi> and <hi>Juriſdiction</hi> from them, and take away their <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſticall</hi> preferments and tithes. &amp;c. yea, make their <hi>Preſbytery</hi> ſo deſolate<g ref="char:punc">▪</g> as not to leave a Presbyter of them to be a <hi>Miniſter;</hi> This friends<g ref="char:punc">▪</g> it ſeems to me God is about to do in <hi>Scotland</hi> it ſelfe, and what will become of it in <hi>England?</hi> and what ſhall we ſay if ever we ſee God do theſe things?</p>
+            <p n="3">3 Though the Warre begin here, poſſibly if it do, this Army will then I beleeve enter <hi>Scotland,</hi> and do for <hi>Preſbytery</hi> there, as they did for <hi>Epiſcopacy</hi> here, but with much more integrity: for as <hi>Epiſcopacy</hi> was to have its fall in <hi>England, England</hi> being the Root of it, ſo <hi>Presbytery</hi> is to have its fall in <hi>Scotland,</hi> the Root of it being there, this eſtate being the <hi>Philadelphian</hi> eſtate, in which the love of Siſter-Churches will appear.</p>
+            <p>O that the mind of God were enquired after at the Word, and that men would endeavour the fulfilling thereof, ſo would there be a ſuddain ending of our troubles, which we going againſt, God leads us into the wilderneſſe about and about: I could inſtance in many things in Parliament and Army, but I forbear, praying God to direct Parliament, Army, and People, to ſet them in a right way, to do Gods will willingly: by which means our loſſes, what ever to us Miniſters, would be repaired. <hi>Kings</hi> and the <hi>Nations</hi> would willingly give their Kingdoms to Chriſt, people willingly take the courſe to be in communion with Chriſt, knowing in all Chriſt ſeeks us, not ours, and repaires all loſſe with wonderfull ad<g ref="char:EOLhyphen"/>vantage, giving a 1000 fold in this world, and in the world to come eternall life with himſelf for ever.</p>
+            <pb n="22" facs="tcp:117289:14"/>
+            <p>I have thought good to conclude with theſe conſiderations.</p>
+            <p n="1">1 That the three <hi>Woes</hi> ſpoken of, <hi>Rev.</hi> 11.14. had reſpect to the Wrath of God cauſing by degrees the fall of the falſe Church, which fell utterly in the laſt <hi>Woe,</hi> though I know uſually men apply it to the laſt Judgement of the wicked, which cannot be.</p>
+            <p>Now in the firſt <hi>Woe</hi> fell of the falſe Church <hi>miniſtry, Cardinals,</hi> and with them <hi>Votaryes, Fryers, Abbots, Abbyes,</hi> with their main<g ref="char:EOLhyphen"/>tenance, and with them as falſe apoſtles, the <hi>Apochryphall Scripture</hi> they had ſet up, with the <hi>golden Legend,</hi> the Book of falſe miracles, <hi>Buls, Indulgencies, &amp;c.</hi> ceaſed with them here.</p>
+            <p n="2">2 Under the ſecond <hi>Woe,</hi> fell the <hi>Archbiſhops,</hi> and <hi>Biſhops,</hi> and with them <hi>Chancellors, Commiſſaries, Deanes, Deanes</hi> and <hi>Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pters, &amp;c.</hi> their Lands, <hi>&amp;c.</hi> and with them fell the <hi>Common-Prayer Booke,</hi> in which was the allowed <hi>Miniſtry</hi> of the Land, with the <hi>Homily-Booke.</hi>
+            </p>
+            <p n="3">3 Vnder the third <hi>Woe,</hi> which is that I formerly ſpoke of, men<g ref="char:EOLhyphen"/>tioned in the <hi>Epiſtle</hi> I dedicated to his Excellency, the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> Generall, which is yet to come, in which is the fall of Presby<g ref="char:EOLhyphen"/>ters and Deacons, as the Root of <hi>Antichriſt,</hi> in whom fals the now preaching, maintenance by Tythes, Gleabs, Church conſti<g ref="char:EOLhyphen"/>tutions <hi>&amp;c.</hi> It any more be in the falſe, when people come to ſee they are in a Bable, that is, in a Confuſion indeed, and there is then way made for the Calling <hi>Miniſtry,</hi> and Church conſtitution of Chriſt, when the World hath nothing of the now, or paſt <hi>Miniſtry</hi> left then is that, and not before fulfilled, <hi>That Babel is fallen.</hi>
+            </p>
+            <p>
+               <hi>Illuſtration</hi> this is underſtood, as I ſuppoſe by that <hi>Rev.</hi> 16.12. <hi>The ſixth Angel poured out his viol on the River</hi> Euphrates, <hi>and the waters thereof were dryed up, that the way of the Kings of the Eaſt may be prepared.</hi>
+            </p>
+            <p n="1">1 Many things in one part of the <hi>Rev.</hi> ſaid to be done, under the ſixth, in another are ſaid to be done under the ſeventh, becauſe in one part of the world, that is done under one, in another is done under a<g ref="char:EOLhyphen"/>nother. Part of this viſion begining under the 6, is ended under the 7th.</p>
+            <p n="2">2 Here, by <hi>waters,</hi> I underſtand the <hi>Miniſtry</hi> of <hi>Antichriſt,</hi> be<g ref="char:EOLhyphen"/>longing to <hi>Babel,</hi> as <hi>Euphrates</hi> did, which was that in the falſe, as the <hi>River of God ſpoken of in the true, Revel.</hi> 2.12. <hi>Pſal.</hi> 46.5. <hi>There is a River, the ſtreams whereof ſhall make glad the City of God.</hi>
+            </p>
+            <p n="3">
+               <pb n="23" facs="tcp:117289:14"/>3 The great River that had that multitude of <hi>Prieſts, Friers, Biſhops,</hi> &amp;c. is to be dryed up, and taken clean away.</p>
+            <p n="4">4 By which only the way of the Governours of the Sun riſing is prepared intimating that as men Eaſt of <hi>Babel</hi> could not come to <hi>Jeruſalem</hi> for that water, ſo the Goſpel <hi>miniſtry</hi> of the new <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> cannot come to it for the water of <hi>Babel</hi> remains.</p>
+            <p>Object. <hi>How can you prove the Apoſtles of the true ſlept in the time of adminiſtration of the falſe Church, eſpecially under Preſbytery.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> 1 The Presbytery, and the reſt before them ſay, the A<g ref="char:EOLhyphen"/>poſtles are extraordinary Officers and are ceaſed: as in the <hi>Propoſi<g ref="char:EOLhyphen"/>tions of the Aſſembly.</hi>
+            </p>
+            <p n="2">2 They apprehend not that in excomunications, &amp;c. Of Church Adminiſtrations they were to do it with the Apoſtles and Apoſtles with them as that, 1 <hi>Cor.</hi> 5.4. Intimates we ſhould doe in doing it and ſo ceaſe not.</p>
+            <p>So that Antichriſt end ſeems to me thus to be brought about in the Lords taking down <hi>Miniſtery</hi> means and <hi>Ordinances,</hi> theſe being not long to be miniſtred by any Authority from or of <hi>Rome,</hi> when the Lord wil decide that great controverſie of the calling of the Mi<g ref="char:EOLhyphen"/>niſtery, that now is, where it be of God or not, when there wil be no viſible form of Church Government left, no more then was in that time in this Kingdom, which was before the birth of Chriſt, into which miſerable eſtate of confuſion or deſolate condition <hi>Babell</hi> fals and ends; who in her glorious eſtate was <hi>Babell,</hi> that is <hi>Confu<g ref="char:EOLhyphen"/>ſion,</hi> but in this as being that <hi>Jericho</hi> or City of the Curſe de<g ref="char:EOLhyphen"/>voted, with all within her to be deſtroyed, not the gold or garments of <hi>Babell</hi> being to be left at all, for the Lord Jeſus now falling on her grinds her to powder: when if this prove true, what will they ſay, that ſo bitterly ſpeak of the falſe and reputed Schiſmaticall tea<g ref="char:EOLhyphen"/>chers, ſaying, <hi>God will pluck off the vizard of theſe perſons:</hi> and not<g ref="char:EOLhyphen"/>withſtanding their pretences, diſcover with what <hi>lying ſpirit</hi> they are led, ſo that their madneſſe ſhall in their deſtruction be manifeſted to all, to the comfort of the people of God, and everlaſting ſhame and confuſion of their own faces. <hi>O man<g ref="char:punc">▪</g> remember thy end, Ba<g ref="char:EOLhyphen"/>bell fals, Revel.</hi> 18.10. <hi>In one houre ſhall her judgment come;</hi> the Al<g ref="char:EOLhyphen"/>mighty God haſtens her to her end, and ſhe cannot find reſt but in the judgment aforeſaid, in which God as in her everlaſting grave
+<pb n="24" facs="tcp:117289:15"/> entombes her for ever: at which the Saints in Heaven above, and on earth beneath, ſhall ſing ſongs of praiſe and glory to God for ever. <hi>Amen.</hi>
+            </p>
+            <p>Now, that the glory of this truth may ſhine as the Sun in the threefold fall of her triple Crown. See <hi>Revel.</hi> 16.19. <hi>The great City was divided into three parts;</hi> ſo that as there <hi>were three woes fell on the Hierarchie of Rome,</hi> ſo it ſhews why but three, becauſe the great City, the <hi>myſticall Rome</hi> was divided into three parts; the firſt part ſubject to <hi>Cardinals,</hi> and the ſecond part ſubject to <hi>Epiſcopacy,</hi> and the third part ſubject to <hi>Presbytery:</hi> theſe are divided in Judg<g ref="char:EOLhyphen"/>ment and Government, preaching one againſt an other, and are three, and yet but one City, and do belong thereunto, and the City never fals untill all theſe parts are faln, upon which fals the Cities of the Nations. <hi>O London:</hi> fall to Chriſt, or thou wilt fall for oppo<g ref="char:EOLhyphen"/>ſing Chriſt in this very time comes either thy greateſt happineſs or unhappineſs thou ever hadſt upon thee: <hi>The Lord make thee wiſe in this thy day to know the things of thy peace, that thou mayſt finde mercy and not in judgment, have them hid from thee. Luke</hi> 19.42.</p>
+            <p>
+               <hi>Revel.</hi> 11. <hi>verſ.</hi> 3. Mentions that <hi>Miniſtry</hi> which was ordained of God, to ſupply the place of the <hi>true and falne Miniſtry,</hi> of the Church, ſet out under the name of <hi>two witneſſes,</hi> who are ordained of God to propheſie, and thereby to feed the Elect of God, during the time of the Churches hid eſtate, which is computed to be by the <hi>Spirit of God,</hi> 1260 days prophetically yeares, <hi>Revel.</hi> 12.6. which is the full time of <hi>Antichriſts</hi> reign, of whom I commend theſe things to be conſidered of.</p>
+            <p n="1">1 That the <hi>two witneſſes,</hi> comprehend not the whole Miniſtry of any age, but only ſuch who in each age of the predicted time did oppoſe Antichriſt, maintaining the Goſpel truth againſt his errours, in doctrine, diſcipline, or Church Conſtitution, in the ſeveral times and ages they lived in, ſo that ones witneſſe may differ from another, according to the meaſure of knowledge God had communicated unto them, in their day, one witneſſing againſt his corrupt doctrine of iuſtification, &amp;c. Others againſt his Idolatry, &amp;c. Againſt whom God had ſtill ſome to oppoſe, and direct the Church to this day, this being a part of that time.</p>
+            <p n="2">2. Their witneſſe is but for a limited time, even the time of the
+<pb n="25" facs="tcp:117289:15"/> Churches hiding, and then ends. <hi>Revel.</hi> 11.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, There Teſtimony is not long before it be ful<g ref="char:EOLhyphen"/>filled if not already, after which they ſhall teach no more, as they have done before.</p>
+            <p n="3">3 Conſider but <hi>Him,</hi> that is to put an end to their Miniſtry<g ref="char:punc">▪</g> and then the time is known, when this and by whom it ſhal be effected, <hi>Rev.</hi> 17.3. <hi>I ſaw a woman,</hi> (that is the Papacy) <hi>ſitting on a Scarlet coloured beaſt,</hi> (that is the Roman Empire) now here, <hi>Revel.</hi> 11.7. The beaſt that is ſome part of the Civill State, of the Roman Mo<g ref="char:EOLhyphen"/>narchy, ſet down, <hi>Verſ</hi> 13. By a tenth part of the City, which <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is being one of the 10 Kingdomes, of the Roman Monarchy, and a tenth part of the City, gets up out of the bottomleſſe pit, or Antichriſts priſon, the Key whereof the fallen Star keepeth, <hi>Revel.</hi> 9.1. which proves her authority thereof.</p>
+            <p n="4">4 The beaſt thus having broken the priſon, makes war with the <hi>witneſſes,</hi> by queſtioning their miniſtry, the witneſſes could not war with any other weapons then the word, and then overcomes them and kils them, (not ſlaying their perſons but nullifying their miniſtry.</p>
+            <p n="5">5 Into their carcaſſes, that is into their now dead miniſtry, comes the ſpirit of life from God, that is God comes to reſtore, in their ſtead the true miniſtry, into the Church againe, now that this is meant of their ſucceſſors, not themſelves, I deſire you to obſerve.</p>
+            <p n="1">1 Their miniſtry is fulfiled that is, that they were to doe by their miniſtry, they have done and are to do no more in the Church.</p>
+            <p n="2">2 Their time being ſet is now accompliſhed, and are no longer to continue, <hi>and if they then, ſure the other antichriſtian Ministry, that is not of God, is much more to end.</hi>
+            </p>
+            <p n="6">6 The ſpirit of life entring into their carcaſſes, is the right call and abundance of gifts, God ſhall bleſſe the ſucceeding mi<g ref="char:EOLhyphen"/>niſtry with.</p>
+            <p n="7">7 That the ſucceſſors of theſe, <hi>verſ.</hi> 12. Are called into heaven, that is, they are acknowledged by the Church, to be the true Goſpel miniſtry.</p>
+            <p n="8">8 On this the 10 part of the City falls, <hi>verſ.</hi> In which a full and perfect deliverance is given, to one of the ten Kingdoms, from the Antichriſtian eſtat and not before.</p>
+            <pb n="26" facs="tcp:117289:16"/>
+            <p>
+               <hi>Aplic. England</hi> ſee where and in what time thou art in, and what is to be done in thee for thy cure, and how neer thy comfort and Salvation is.</p>
+            <p n="2">2 How contrary the actings of men, are to Gods minde, the ſole cauſe of all our troubles.</p>
+            <p n="3">3 I cannot paſſe this by that the witneſſes Propheſied in ſack<g ref="char:EOLhyphen"/>cloath, <hi>Revel.</hi> 11.3. And ſo did weare none of the Popes Scarlet, or the Biſhops ſilks, or had they the rule of States, with the Presbytery, but were during their whole time of miniſtry, in a ſad and ſuffering condition lamenting, their own and the Saints calamities, being al<g ref="char:EOLhyphen"/>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys under antichriſtian perſecution for the truth, and never having publicke Government in their hands, as Presbytery hath had, at all.</p>
+            <p n="4">4 Theſe witneſſes riſe again in the reſtauration of the true Goſ<g ref="char:EOLhyphen"/>pel miniſtry foretold of God, <hi>Revel.</hi> 20. <hi>ver.</hi> 4.5.</p>
+            <p>You ſhall ſee in this how God makes good the judgment written of her, when ſhall be fulfilled on her that ſhe did on the meſſengers of the Goſpel, that ſhe may ſay as I have done, <hi>the Lord hath re<g ref="char:EOLhyphen"/>quited me, Revel.</hi> 18.6. <hi>Return to her even as ſhe hath returned to you.</hi> Now the word is <hi>verbum factivum<g ref="char:punc">▪</g>
+               </hi> that which God ſaith here, <hi>Do, ſhall be done when the time is come, &amp; people be,</hi> to whom theſe words are written. For as the Apoſtle, 1 <hi>Pet.</hi> 1.12. <hi>not to themſelves, but us they did miniſter theſe things,</hi> ſo theſe things are miniſtred to thoſe men that live in that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, God will have theſe things done, <hi>when the Word ſhall fill their ſpirits with might to do the will of the Lord.</hi>
+            </p>
+            <p n="1">1 Who is to be returned unto, that is her, the falſe Church of <hi>Rome.</hi>
+            </p>
+            <p n="2">2 How ſhe is to be rewarded, and that is as ſhe hath rewarded the true Church of <hi>Chriſt.</hi>
+            </p>
+            <p n="3">3 He ſhews the Rule God wil have obſerved in returning to her, which is, <hi>That as ſhe hath done, ſhe ſhall be done unto.</hi>
+            </p>
+            <p n="1">1 Now, conſider by <hi>policy</hi> ſhe firſt deſtroyed the <hi>Goſpel Mini<g ref="char:EOLhyphen"/>ſtry,</hi> God will take down hers by the <hi>purity and power of his Word again, and ſet up the Goſpel Government in her ſtead.</hi>
+            </p>
+            <p n="2">2 By <hi>cruelty</hi> and <hi>diſgrace</hi> ſhee deſtroyed theſe <hi>Witneſſes,</hi> which taught the <hi>Goſpel of Truth</hi> in the time of her Reigne, now to this the holy <hi>Spirit</hi> alludes, as being the way of <hi>Gods judgment,</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch the <hi>Saints</hi> are to be <hi>execution<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> and to do to her (that is <hi>Antichriſt</hi>) as ſhe hath done.</p>
+            <p n="3">
+               <pb n="27" facs="tcp:117289:16"/>3 The thing <hi>God</hi> aimed at herein is to ſhew <hi>Antichriſts tyran<g ref="char:EOLhyphen"/>ny</hi> uſed againſt thoſe God raiſed up to preach the Goſpel, by <hi>degra<g ref="char:EOLhyphen"/>ding</hi> them, as in the <hi>Hiſtory</hi> of <hi>John Huſs</hi> at <hi>Conſtance,</hi> and of <hi>John Sawtrey</hi> the firſt <hi>Engliſh Martyr,</hi> the <hi>Hiſtory</hi> in brief being thus: <hi>The Biſhops cauſe him to be apparelled in Prieſtly Vestments, and to be brought to appear before them<g ref="char:punc">▪</g> when the Archbiſhop of</hi> Can<g ref="char:EOLhyphen"/>terbury Thomas Arundel 1399 <hi>ſaith, I denounce thee</hi> William Saw<g ref="char:EOLhyphen"/>trey <hi>in the Habit of a Priest, as an Heretick, I do condemne thee in the name of all my fellow brethren the Biſhops, &amp;c. and of the whole Clergy I do degrade and deprive thee of thy Priestly Order, in ſigne whereof, we take from thee the Patent and Chalice, and do deprive thee of authority of ſaying Maſs: we pull from thy back the Caſul, and take from thee thy Vestment, and deprive thee of all manner of Priestly honour.</hi>
+            </p>
+            <p>And then having proceeded in manner of pronouncing ſentence againſt him (as before) he proceeds, <hi>Wee put thee from the order of a Deacon, in token we take from thee the book of the New Testament and the Stole, and do deprive thee of reading the Gospel, and all dig<g ref="char:EOLhyphen"/>nity of a Deacon.</hi>
+            </p>
+            <p>
+               <hi>As a</hi> Sub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eacon <hi>they deprive<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the</hi> Albe <hi>and</hi> Maniple.</p>
+            <p>
+               <hi>As a</hi> Acolite <hi>they take away the</hi> Candleſtick <hi>and</hi> Taper.</p>
+            <p>
+               <hi>As a</hi> Exorciſt, <hi>the book of</hi> Conjuration.</p>
+            <p>
+               <hi>As a</hi> Reader <hi>they took away the book of the</hi> Church Legend.</p>
+            <p>
+               <hi>As</hi> Sexton <hi>they took away the Keys of the</hi> Church doore, <hi>and the</hi> Surplice.</p>
+            <p>
+               <hi>And then raze his</hi> Crown, <hi>and put a</hi> Cap <hi>of a Lay perſon on his head, and deliver him to the Secular power, and ſay, pray be favoura<g ref="char:EOLhyphen"/>ble to him, who after burns him (being called on by the Biſhops) in the City of</hi> London.</p>
+            <p>Now you are to obſerve if a Cardinall, Archbiſhop or Biſhop had proved thus Heretical, other things had been done to him, in his Pale Croſier Mitre and other fooleries, as in part was done on thoſe Biſhops ſuffered in Queen <hi>Maryes</hi> dayes.</p>
+            <p>O! Friends, ſee is not the <hi>Surpliſe</hi> taken away, the Legend, the Booke of Conjurations, the Candleſticks, the Taper, the Alb, the Maniple, the New Teſtament, and ſtole from the Deacon, I mean to exerciſe it miniſterially, the Paten and Chalice, the Caſul, the
+<pb n="28" facs="tcp:117289:17"/> Maſſe, the Mitre, Croſier and Cardinals Cap, are not all in a little while, with many more gone out of the Kingdome, and ſwept clean away as with the beeſome of God.</p>
+            <p n="4">4 Things are here done more to be obſerved.</p>
+            <p n="1">1 Depriving of Prieſtly honour.</p>
+            <p n="2">2 Razing the Crown.</p>
+            <p n="3">3 Puting on a Laymans Cap, which we ſhould be loath to have done on us.</p>
+            <p n="4">4 The ſaying to the Temporall power, we beſeech you to receive <hi>William Sawtrey,</hi> favourably into your power, if ever God ſhould doe this, the Civil power need to be favourable to us, for never men needed more favour of them then we ſhall, the Lord grant ſome way may be found out to ſupply our families, which are not the leaſt in the Kingdom, and let not us Miniſters if theſe things are to be, not occaſion the Magiſtrate to be ſtraightned to us. Lord, what a day is coming on us <hi>Miniſters,</hi> ſure, another day of judgment which we cannot flye from. That Parable of the unjuſt <hi>Steward, Luke</hi> 16.1. to the end of <hi>verſ.</hi> 11. will be after more cleerly underſtood then yet it is. But this is for comfort, certainly, that after the true Church is conſtituted, the abundance of bleſſings will be ſuch I think, no man will lack.</p>
+            <p>I ſhall end this part with certain Predictions agreeable here<g ref="char:EOLhyphen"/>unto.</p>
+            <p>
+               <hi>Walter Brute,</hi> about 1393. but if in time to come after this, thoſe that be Temporall Lords ſhall take from Eccleſiaſtical perſons their Temporalties, let him that deſireth to underſtand this, read <hi>Ezek. chap. of the Sheepherds of Iſrael,</hi> and read the <hi>Apocalyps, of the fall of Babel,</hi> let him read the <hi>Popes Decretals againſt Heretiks,</hi> in theſe he ſhall find the Temporalties ſhal be taken from the Clergy for the multitudes of their ſins, <hi>Acts and Mon.</hi>
+            </p>
+            <p>A Prediction of <hi>Merlinus Calcedenius,</hi> a <hi>Scot.</hi>
+            </p>
+            <p>After a long tribulation of <hi>Chriſtians</hi> and effuſion of innocent bloud, the proſperity and peace of God ſhall come to a deſolate Nation, I mean the <hi>Chriſtians</hi> for an excellent Paſtor ſhall come, and rectifie all things, and all things ſhall be according to the form of the Primitive Church.</p>
+            <p>
+               <hi>Joannes Wolfius</hi> cites a Prediction.</p>
+            <q>
+               <pb n="29" facs="tcp:117289:17"/>
+               <l>Europae genitus terra vir juſtus &amp; aequus</l>
+               <l>Paſtor erit, coeli claves non regna gubernans</l>
+               <l>Pax erit, &amp; toto ſurget concordia mundo:</l>
+               <l>Una fides, unus regnabit in omnia princeps.</l>
+            </q>
+            <p>Saint <hi>Bridget</hi> ſaith of the <hi>Pope,</hi> that a ſword of God ſhould pierce his body, and run him throrough from head to heart, never to be pulled out, and after his armes, his Vicars and Miniſters their ſouls ſhould be debarred the glory of God, and their dignity and goods ſhould be devolved unto others.</p>
+            <p>
+               <hi>Joachim</hi> an <hi>Italian</hi> Abbot, in his Concord of the two Teſtaments, hath written many predictions, which accord with theſe.</p>
+            <p>
+               <hi>Joannes de rupe Sciſſa,</hi> once Biſhop of <hi>Paris,</hi> hath foretold that the Pope<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Archbiſhops, Biſhops, and the whole Clergy of <hi>Rome</hi> ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be brought back again to the <hi>Primitive</hi> form of Chriſt and his Apoſtles, with moſt ſharp ſcourges, and that all temporall principa<g ref="char:EOLhyphen"/>lities ſhall be taken from the Clergy.</p>
+            <p>
+               <hi>Savanorala,</hi> that the Apoſtolicall See ſhould be removed from <hi>Rome</hi> to <hi>Jeruſalem,</hi> if hereby be underſtood the New <hi>Jeruſalem</hi> it is true. And its poſſible theſe Predictions, were for the moſt part taken from Scripture, as Expoſitions only, as in the predicted place of <hi>Walter Brute,</hi> according to which I have done mine, which none can quarrell at, unleſſe he quarrell againſt the Word, if it agree with the mind of the <hi>holy Spirit,</hi> if not reprove it, print againſt it.</p>
+            <p>After part of the wrath of God contained under the ſixth Seal, in which is a fall of the <hi>miniſtry, Revel.</hi> 6.13. and demoliſhing of Church Government, <hi>in rolling away of the Heavens, verſ.</hi> 14. <hi>chap.</hi> 7.1. there is an endevour by 4 <hi>Angels,</hi> that is, <hi>miniſters</hi> to ſtop the <hi>Win<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> or <hi>Goſpel</hi> through diſcontent that their <hi>miniſtry</hi> and <hi>govern<g ref="char:EOLhyphen"/>ment</hi> was aboliſhed, it being given to them by the <hi>Magistrate.</hi> It is liked not of God, becauſe they are by the other Angel that differed from them forbade to do it, it is like they will endevour to peace if their call to the <hi>ministry</hi> be falſe, there is none true, and ſo ought to be no teaching at all, but the other <hi>Angel</hi> that aſcends from the <hi>Sun riſing,</hi> that is he, that was of thoſe <hi>Christ the Son of righteouſneſſe</hi> at firſt ſent forth with the Goſpel, hee oppoſeth them who hath the <hi>Seal</hi> that is the authority of the <hi>living God to constitute Churches,
+<pb n="30" facs="tcp:117289:18"/> and gather members into Gospel fellowſhip with Jeſus Christ by the word, ſetting men apart to God, thereby from the World.</hi>
+            </p>
+            <p>Reader, one word of this Scripture is not fulfilled, but follows the things in hand, time will ſhortly manifeſt them in another way then yet they are.</p>
+            <p>In the Miniſtry of <hi>Edmundſbury</hi> in the Celleners great Chamber window, in one half of the glaſſe was pictured the Apoſtle <hi>Paul,</hi> having in one hand a ſword, and with the other points to a picture, and the other ſide of the window, with a triple Crown in a glorious Seat, holding the Globe of the World in his hand, environed with Prieſts, Monks, Preachers and Fryers, and having out of his mouth an unclean ſpirit flying or fluttering about the ſame, his Crown was compaſſed (is it were) with Sun-beams, and in three ſeverall places written about it in ſhort, <hi>Antichriſtus,</hi> and about the Apoſtles head, was written <hi>Veniet diſceſſio primum.</hi>
+            </p>
+            <p>And underneath the Apoſtle <hi>Paul</hi> is pictured <hi>Malachy</hi> the Pro<g ref="char:EOLhyphen"/>phet, and written above his head, <hi>Ecce ego mittam vobis Eliam Prophetam, Behold, I will ſend you Eliah the Prophet, and he ſhall turne the hearts of the fathers to the children, and the children to the fathers, leaſt I ſmite the earth with a Curſe:</hi> and with the finger pointed at <hi>Eliah,</hi> pictured on the other hand, over againſt him un<g ref="char:EOLhyphen"/>derneath the picture of <hi>Antichriſt,</hi> as if hee were preaching to the Prelates, Prieſts, Monks and Friers, amongſt whom ſome are re<g ref="char:EOLhyphen"/>preſented, as ſtopping their cares and noſe thereat. Some as if they ſeemed ſleeping, ot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſome at liſtning and aſſenting to that <hi>Elias</hi> ſaith, <hi>Vide Maxwels Hiſtory of admirable prophecies.</hi>
+            </p>
+            <p>I do not cite theſe, as if the Scripture were not ſufficient to ad<g ref="char:EOLhyphen"/>moniſh us, or that I uſe them as of any authority in a manner, but thus, that when all knowledge was taken away from the people, God ſtirred up <hi>the dumbe to ſpeak, and made the blinde ſee</hi> the de<g ref="char:EOLhyphen"/>ſtruction of <hi>Antichriſt</hi> to wonder and admiration, ſo that Popes, Cardinals, &amp;c. cannot ſay but they have been admoniſhed of God from Heaven, as it were of that deſtruction, moſt certainly follow<g ref="char:EOLhyphen"/>eth. Now if theſe, how much more ſhould we from the word warn men and be warned, in which they may ſee truth themſelves ſpoken of God that cannot lie, and bleſſed is that ſoule is not offen<g ref="char:EOLhyphen"/>ded at it but made wiſe, and in it happy for ever, which is it I on<g ref="char:EOLhyphen"/>ly
+<pb n="31" facs="tcp:117289:18"/> ſeek God is witneſs, and not of my ſelf, the wrong or fall of any enviouſly; but the admonition of all that are concern'd here in love and in peace, in God, and in Chriſt our Lord, according to the e<g ref="char:EOLhyphen"/>verlaſting Goſpel of our bleſſed God and Saviour, and who is he that came or ſhal be offended at it, and not offend God; yea, try if it be the truth, if ſo, if thou believe not; yea, if thou ſubmit not to it, the enmity of this heart appears againſt, which pray the Lord ear<g ref="char:EOLhyphen"/>neſtly to give thee grace and mercy, that thou be not left thereto for ever: whereto the Lord help all his daily evermore.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 1. r. <hi>parabolas,</hi> p. 4. l. 34. r. are in. p. 5. l. 2. r. <hi>Presbyter,</hi> p. 5. l. 17. r. falſe prophet, p. 5. l. 23. r. <hi>alterius orbis,</hi> p. 5. 28, 29. r. for the Evangeliſts p. 10 l. 16. <hi>dele</hi> that, l. 35. r. who are p. 13. l. <hi>ult.</hi> r. aſſociation p. 19. at end of 20 l. 1 <hi>Cor.</hi> 3.15 p. 19. l. 4. r. as at.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
